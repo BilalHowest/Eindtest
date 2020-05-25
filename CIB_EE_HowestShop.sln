@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29920.165
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cib.Exam.HowestShop.UI", "Cib.Exam.HowestShop.UI\Cib.Exam.HowestShop.UI.csproj", "{DD126316-FED1-4A28-9D06-4634D4831DDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cib.Exam.HowestShop.Domain", "Cib.Exam.HowestShop.Domain\Cib.Exam.HowestShop.Domain.csproj", "{AE684050-B080-4349-A0C4-23AD9379AD4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DD126316-FED1-4A28-9D06-4634D4831DDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DD126316-FED1-4A28-9D06-4634D4831DDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DD126316-FED1-4A28-9D06-4634D4831DDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DD126316-FED1-4A28-9D06-4634D4831DDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE684050-B080-4349-A0C4-23AD9379AD4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE684050-B080-4349-A0C4-23AD9379AD4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE684050-B080-4349-A0C4-23AD9379AD4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE684050-B080-4349-A0C4-23AD9379AD4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5EF4DEB0-092E-4E01-81B0-D6AB4B5F8AC5}
+	EndGlobalSection
+EndGlobal
