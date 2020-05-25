@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Howest Shop" Height="450" Width="800" Loaded="Window_Loaded">
     <Grid>
-        <Label Content="Voeg product toe[][][][]" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Voeg product toe" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top"/>
         <Label Content="Naam:" HorizontalAlignment="Left" Margin="10,41,0,0" VerticalAlignment="Top"/>
         <Label Content="Categorie:" HorizontalAlignment="Left" Margin="10,77,0,0" VerticalAlignment="Top"/>
         <Label Content="Prijs:" HorizontalAlignment="Left" Margin="10,117,0,0" VerticalAlignment="Top"/>
@@ -15,7 +15,7 @@
         <TextBox x:Name="txtNewProductPrice" HorizontalAlignment="Left" Height="23" Margin="79,120,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
         <ComboBox x:Name="cmbNewProductCategory" HorizontalAlignment="Left" Margin="79,81,0,0" VerticalAlignment="Top" Width="120"/>
         <Button x:Name="btnNewProductAdd" Content="Voeg toe" HorizontalAlignment="Left" Margin="10,157,0,0" VerticalAlignment="Top" Width="189" Click="BtnNewProductAdd_Click"/>
-        <Label Content="[][][][]Lijst van alle producten[][][][]" HorizontalAlignment="Left" Margin="273,10,0,0" VerticalAlignment="Top"/>
+        <Label Content="Lijst van alle producten" HorizontalAlignment="Left" Margin="273,10,0,0" VerticalAlignment="Top"/>
         <ListBox x:Name="lstProducts" HorizontalAlignment="Left" Height="319" Margin="282,77,0,0" VerticalAlignment="Top" Width="487"/>
         <Label Content="Prijs" HorizontalAlignment="Left" Margin="282,49,0,0" VerticalAlignment="Top" Width="70" FontWeight="Bold"/>
         <Label Content="Categorie" HorizontalAlignment="Left" Margin="380,49,0,0" VerticalAlignment="Top" Width="70" FontWeight="Bold"/>
